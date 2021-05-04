@@ -1,0 +1,14 @@
+{
+    "git.ignoreLimitWarning": true,
+    "files.associations": {
+        "vector": "cpp",
+        "*.tcc": "cpp",
+        "sstream": "cpp",
+        "array": "cpp",
+        "functional": "cpp",
+        "type_traits": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "initializer_list": "cpp"
+    }
+}
